@@ -71,7 +71,7 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
   <a href="https://www.codechef.com/users/eshqpreet">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=CodeChef&logoColor=35914c" alt="CodeChef Profile" />
+    <img src="https://img.shields.io/badge/CodeChef-gray?style=for-the-badge&logo=CodeChef&logoColor=35914c" alt="CodeChef Profile" />
   </a>
 </details>
 
