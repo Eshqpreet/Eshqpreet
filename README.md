@@ -126,19 +126,33 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-
 </details>
 
-<br>
-<!-- Contact Me Section -->
-<h2 align="center">
-  <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="37" /> Contact Me
-</h2>
-<div align="center">
-  <p>If you'd like to get in touch, feel free to connect with me through the following channels:</p>
-  <ul>
-    <li>Email: <a href="mailto:singheshqpreet@gmail.com">singheshqpreet@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/eshqpreet-singh-387956281/">https://www.linkedin.com/in/eshqpreet-singh-387956281/</a></li>
-    <li>GitHub: <a href="https://github.com/Eshqpreet">github.com/Eshqpreet</a></li>
-  </ul>
-</div>
+<details>
+  <summary>
+    <h2 align="center">
+      <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="37" /> Contact Me
+    </h2>
+  </summary>
+  <div align="center">
+    <p>If you'd like to get in touch, feel free to connect with me through the following channels:</p>
+    <ul>
+      <li>
+        <a href="mailto:singheshqpreet@gmail.com">
+          <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="30"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/eshqpreet-singh-387956281/">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="30"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Eshqpreet">
+          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="30"/>
+        </a>
+      </li>
+    </ul>
+  </div>
+</details>
+
