@@ -18,7 +18,7 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
 <details>
   <summary>
     <h2 align="center">
-      <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="70" height="70" style="border-radius: "50%";" /> Contact Me
+      <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="70" height="70" style="border-radius: 50%;" /> Contact Me
     </h2>
   </summary>
     <p>If you'd like to get in touch, feel free to connect with me through the following channels:</p>
