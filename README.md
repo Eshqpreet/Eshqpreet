@@ -16,11 +16,10 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
 
 <details>
   <summary>
-    <h4 align="center">
+    <h2 align="center">
       <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="37" /> Contact Me
-    </h4>
+    </h2>
   </summary>
-  <div align="center">
     <p>If you'd like to get in touch, feel free to connect with me through the following channels:</p>
         <a href="mailto:singheshqpreet@gmail.com">
           <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="30"/>
@@ -31,7 +30,6 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
         <a href="https://github.com/Eshqpreet">
           <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="30"/>
         </a>
-  </div>
 </details>
 
 <br>
