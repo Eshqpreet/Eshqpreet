@@ -3,6 +3,7 @@
   I'm Eshqpreet Singh
 </h1>
 <h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=[Eshqpreet]&color=green" alt="Profile Views" style="height:21px;">
   Fullstack Developer
 </h2>
 <div align="center">
