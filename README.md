@@ -29,7 +29,8 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
 
 <details>
   <summary>
-    <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJoeW52bDM4Nndyc293ZXMzbG8yMmRpNmp3czlwN2NocDBpenZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="29" style="margin-right: 10px;"/> Experience
+    <h4>
+    <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJoeW52bDM4Nndyc293ZXMzbG8yMmRpNmp3czlwN2NocDBpenZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="29" style="margin-right: 10px;"/> Experience</h4>
   </summary>
   
   <br>
