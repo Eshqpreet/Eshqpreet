@@ -96,6 +96,9 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
   <a href="https://mui.com/"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-%237E73E6.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+  <a href="https://akveo.github.io/ngx-ui/"><img src="https://img.shields.io/badge/ui_kitten-%23000000.svg?style=for-the-badge&logo=ui_kitten&logoColor=white" alt="UI-Kitten"/></a>
+  <a href="https://www.accenture.com/us-en/services/technology/accenutre-ui"><img src="https://img.shields.io/badge/accenture_ui-%23000000.svg?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture-UI"/></a>
 
   <br>
 
