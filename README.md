@@ -22,7 +22,7 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
     </h2>
 </summary>
 
- <details>
+<details>
   <summary><h4> <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRmZTFoeDEybGZrMjBxOXA5Znd6ZWdhZ21nYjhrdjF1dzgxdGFzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPbS5R4fSUl5S/200.webp" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-IIT Ropar-1877F2?style=for-the-badge"></span>
  </details>
@@ -129,12 +129,15 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
 
 </details>
 
-
-## <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="37" /> Contact Me
-
-
-
-
-
-
-</details>
+<!-- Contact Me Section -->
+<h2 align="center">
+  <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="37" /> Contact Me
+</h2>
+<div align="center">
+  <p>If you'd like to get in touch, feel free to connect with me through the following channels:</p>
+  <ul>
+    <li>Email: <a href="mailto:singheshqpreet@gmail.com">singheshqpreet@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/eshqpreet-singh-387956281/">https://www.linkedin.com/in/eshqpreet-singh-387956281/</a></li>
+    <li>GitHub: <a href="https://github.com/Eshqpreet">github.com/Eshqpreet</a></li>
+  </ul>
+</div>
