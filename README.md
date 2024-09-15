@@ -27,11 +27,16 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
   <span><img src="https://img.shields.io/badge/BTECH-IIT Ropar-1877F2?style=for-the-badge"></span>
  </details>
 
- <details>
-  <summary><h4> <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJoeW52bDM4Nndyc293ZXMzbG8yMmRpNmp3czlwN2NocDBpenZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="29"/> Experience</h4></summary>
-  - **Fullstack Developer** at AddPinch | 6 Months
-    - Developed new features in both web and app.
-    - Integrated Payment Gateways: Stripe and Razorpay.
-    - Worked on UI and Creating and Integrating Graphql Queries and Mutations.
- </details>
+<details>
+  <summary>
+    <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJoeW52bDM4Nndyc293ZXMzbG8yMmRpNmp3czlwN2NocDBpenZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="29"/> Experience
+  </summary>
+  <p><strong>Fullstack Developer</strong> at AddPinch | 6 Months</p>
+  <ul>
+    <li>Developed new features in both web and app.</li>
+    <li>Integrated Payment Gateways: Stripe and Razorpay.</li>
+    <li>Worked on UI and Creating and Integrating GraphQL Queries and Mutations.</li>
+  </ul>
+</details>
+
 </details>
