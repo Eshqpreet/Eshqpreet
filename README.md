@@ -29,14 +29,32 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
 
 <details>
   <summary>
-    <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJoeW52bDM4Nndyc293ZXMzbG8yMmRpNmp3czlwN2NocDBpenZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="29"/> Experience
+    <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJoeW52bDM4Nndyc293ZXMzbG8yMmRpNmp3czlwN2NocDBpenZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="29" style="margin-right: 10px;"/> Experience
   </summary>
+  
+  <br>
+  
   <p><strong>Fullstack Developer</strong> at AddPinch | 6 Months</p>
   <ul>
-    <li>Developed new features in both web and app.</li>
-    <li>Integrated Payment Gateways: Stripe and Razorpay.</li>
-    <li>Worked on UI and Creating and Integrating GraphQL Queries and Mutations.</li>
+    <li>Developed new features for both web and mobile applications.</li>
+    <li>Integrated payment gateways such as Stripe and Razorpay.</li>
+    <li>Improved user interfaces and implemented GraphQL queries and mutations.</li>
   </ul>
+
+  <p><strong>Fullstack Web Developer</strong> at BharatLinkr | 4 Months</p>
+  <ul>
+    <li>Enhanced UI/UX to improve user interaction and engagement.</li>
+    <li>Integrated APIs for seamless communication between frontend and backend.</li>
+    <li>Implemented new functionalities to optimize web performance.</li>
+  </ul>
+
+  <p><strong>Frontend Web Developer</strong> at Multani Ventures Pvt Ltd. | 6 Months</p>
+  <ul>
+    <li>Designed and improved user interfaces for a better user experience.</li>
+    <li>Developed new functionalities to increase overall application efficiency.</li>
+  </ul>
+
 </details>
+
 
 </details>
