@@ -58,11 +58,23 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/u/singheshqpreet/)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Eshqpreet_Singh)
-  [![CodeChef](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=CodeChef&logoColor=35914c)](https://www.codechef.com/users/eshqpreet)
+  <summary>
+    <h4>
+      <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29" style="margin-right: 8px;"/> Coding Handles
+    </h4>
+  </summary>
+  <br> 
+  <a href="https://www.leetcode.com/u/singheshqpreet/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Profile" />
+  </a>
+  <a href="https://codeforces.com/profile/Eshqpreet_Singh">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+  <a href="https://www.codechef.com/users/eshqpreet">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=CodeChef&logoColor=35914c" alt="CodeChef Profile" />
+  </a>
 </details>
+
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
