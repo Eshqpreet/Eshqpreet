@@ -17,20 +17,23 @@ I am a passionate Fullstack Developer with expertise in both frontend and backen
 <details>
   <summary>
     <h2 align="center">
-      <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="37" /> Contact Me
+      <img align='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="37" /> Contact Me
     </h2>
   </summary>
-    <p>If you'd like to get in touch, feel free to connect with me through the following channels:</p>
-        <a href="mailto:singheshqpreet@gmail.com">
-          <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="30"/>
-        </a>
-        <a href="https://www.linkedin.com/in/eshqpreet-singh-387956281/">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="30"/>
-        </a>
-        <a href="https://github.com/Eshqpreet">
-          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="30"/>
-        </a>
+  <p align="center">If you'd like to get in touch, feel free to connect with me through the following channels:</p>
+  <div align="center">
+    <a href="mailto:singheshqpreet@gmail.com">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUyN2JwdTYxdW1zMzF6MWsyZnpnc2dmc3N5bmYyN3pyZ2p5b2RmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ISdRYijIuPxMQNXPpu/giphy.webp" alt="Email" width="30"/>
+    </a>
+    <a href="https://www.linkedin.com/in/eshqpreet-singh-387956281/">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlkN2FkdWFuY2VpZ21tN3M1c2g4Ym9uMWJqYTExZzQ5Z2FzY3JlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQ5RYwcb0x5haSPAYu/giphy.webp" alt="LinkedIn" width="30"/>
+    </a>
+    <a href="https://github.com/Eshqpreet">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQxYzJzZzNhdWg0NGw5aG96M2d3OThsOGQzYzQyNjkwYWc4MjA4Yg/Zkhm5ewfXtqD2e89D6/giphy.webp" alt="GitHub" width="30"/>
+    </a>
+  </div>
 </details>
+
 
 <br>
 <details>
